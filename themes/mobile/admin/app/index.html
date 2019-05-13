@@ -3,9 +3,9 @@
 <div style="padding: 0px 10px 0px 10px;">
 <div class="layui-tab">
     <ul class="layui-tab-title">
-        <li {eq name="type" value="index"}class="layui-this"{/eq}> <a href="{:url('index')}">应用中心</a></li>
-        <li {eq name="type" value="uninstall"}class="layui-this"{/eq}> <a href="{:url('index',['type'=>'uninstall'])}">卸载应用</a></li>
-        <li {eq name="type" value="notinstall"}class="layui-this"{/eq}><a href="{:url('index',['type'=>'notinstall'])}">安装应用</a></li>
+        <li {eq name="type" value="index"}class="layui-this"{/eq}> <a href="../../../../public/index.php">应用中心</a></li>
+        <li {eq name="type" value="uninstall"}class="layui-this"{/eq}> <a href="../../../../public/index.php">卸载应用</a></li>
+        <li {eq name="type" value="notinstall"}class="layui-this"{/eq}><a href="../../../../public/index.php">安装应用</a></li>
     </ul>
 </div>
 {switch name="type"}

@@ -9,13 +9,18 @@
 namespace think;
 //如果出现一片空白，请检查PHP版本
 //环境要求：PHP>=5.6 mysql 建议在5.5以上
+// 定义框架入口文件根目录
 define('ENTR_PATH','');
-define('ROOT_PATH',__DIR__.'/');
 define('DS',DIRECTORY_SEPARATOR);
-define('APP_PATH', __DIR__ . '/application/');
-define('ADDON_PATH', __DIR__ . '/addons/');
-define('MINIAPP_PATH', __DIR__ . '/miniapp/');
+// 定义框架应用根目录
+define('ROOT_PATH', __DIR__. '/../');
+define('APP_PATH', __DIR__ . '/../application/');
+define('ADDON_PATH', __DIR__ . '/../addons/');
+define('MINIAPP_PATH', __DIR__ . '/../miniapp/');
 define('ADDON_ROUTE','/app/');
 define('EXTEND_PATH',ROOT_PATH . 'extend/');
-require __DIR__ . '/thinkphp/base.php';
+
+define('SUBJECT_NAME','rhaphp');
+// 加载基础文件
+require __DIR__ . '/../thinkphp/base.php';
 Container::get('app',[APP_PATH])->run()->send();

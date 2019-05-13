@@ -1,0 +1,3031 @@
+---------------------------------------------------------------
+[2019-05-13T21:37:07+08:00] 127.0.0.1 GET myrhaphp.com/
+[运行时间：0.110078s] [吞吐率：9.08req/s] [内存消耗：2,319.34kb] [文件加载：76]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T21:37:07+08:00] 127.0.0.1 GET myrhaphp.com/?s=install
+[运行时间：0.069130s] [吞吐率：14.47req/s] [内存消耗：2,680.13kb] [文件加载：84]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\index.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T21:38:40+08:00] 127.0.0.1 GET myrhaphp.com/?s=install
+[运行时间：0.063642s] [吞吐率：15.71req/s] [内存消耗：2,456.29kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\index.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T21:38:54+08:00] 127.0.0.1 GET myrhaphp.com/
+[运行时间：0.046416s] [吞吐率：21.54req/s] [内存消耗：2,319.41kb] [文件加载：76]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T21:38:54+08:00] 127.0.0.1 GET myrhaphp.com/?s=install
+[运行时间：0.048738s] [吞吐率：20.52req/s] [内存消耗：2,456.29kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\index.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T21:39:48+08:00] 127.0.0.1 GET myrhaphp.com/?s=install
+[运行时间：0.066402s] [吞吐率：15.06req/s] [内存消耗：2,456.28kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\index.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T21:39:54+08:00] 127.0.0.1 GET myrhaphp.com/
+[运行时间：0.050626s] [吞吐率：19.75req/s] [内存消耗：2,319.41kb] [文件加载：76]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T21:39:55+08:00] 127.0.0.1 GET myrhaphp.com/?s=install
+[运行时间：0.051482s] [吞吐率：19.42req/s] [内存消耗：2,456.28kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\index.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T21:40:23+08:00] 127.0.0.1 GET myrhaphp.com/
+[运行时间：0.065626s] [吞吐率：15.24req/s] [内存消耗：2,319.41kb] [文件加载：76]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T21:40:23+08:00] 127.0.0.1 GET myrhaphp.com/?s=install
+[运行时间：0.066605s] [吞吐率：15.01req/s] [内存消耗：2,680.07kb] [文件加载：84]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\index.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T21:41:16+08:00] 127.0.0.1 GET myrhaphp.com/Install/index/check.html
+[运行时间：0.070163s] [吞吐率：14.25req/s] [内存消耗：2,503.15kb] [文件加载：85]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [2]disk_free_space(): ϵͳ�Ҳ���ָ����·����
+[C:\phpStudy\PHPTutorial\WWW\rhaphp\application\install\common.php:36]
+---------------------------------------------------------------
+[2019-05-13T21:41:30+08:00] 127.0.0.1 GET myrhaphp.com/
+[运行时间：0.049246s] [吞吐率：20.31req/s] [内存消耗：2,319.41kb] [文件加载：76]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T21:41:30+08:00] 127.0.0.1 GET myrhaphp.com/?s=install
+[运行时间：0.061267s] [吞吐率：16.32req/s] [内存消耗：2,456.86kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\index.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T21:41:30+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.048556s] [吞吐率：20.59req/s] [内存消耗：1,927.30kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T21:41:36+08:00] 127.0.0.1 GET myrhaphp.com/Install/index/check.html
+[运行时间：0.059192s] [吞吐率：16.89req/s] [内存消耗：2,503.69kb] [文件加载：85]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/?s=install',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [2]disk_free_space(): ϵͳ�Ҳ���ָ����·����
+[C:\phpStudy\PHPTutorial\WWW\rhaphp\application\install\common.php:36]
+---------------------------------------------------------------
+[2019-05-13T21:43:46+08:00] 127.0.0.1 GET myrhaphp.com/Install/index/check.html
+[运行时间：0.082043s] [吞吐率：12.19req/s] [内存消耗：2,675.24kb] [文件加载：86]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\check.html [ array (
+  0 => 'stlUrl',
+  1 => 'dirfile',
+  2 => 'env',
+  3 => 'func',
+  4 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T21:43:47+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.057192s] [吞吐率：17.48req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T21:43:55+08:00] 127.0.0.1 GET myrhaphp.com/install/index/config.html
+[运行时间：0.087009s] [吞吐率：11.49req/s] [内存消耗：2,672.26kb] [文件加载：84]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/Install/index/check.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\config.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T21:43:55+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.055061s] [吞吐率：18.16req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T21:54:44+08:00] 127.0.0.1 POST myrhaphp.com/install/index/config.html
+[运行时间：0.338149s] [吞吐率：2.96req/s] [内存消耗：3,397.23kb] [文件加载：87]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '209',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  'db' => 
+  array (
+    0 => 'mysql',
+    1 => '132.232.50.253',
+    2 => 'rhaphpp',
+    3 => 'liuyu',
+    4 => 'grh394492474',
+    5 => '3306',
+    6 => 'rh_',
+  ),
+  'admin' => 
+  array (
+    0 => 'admin',
+    1 => '123456',
+    2 => '123456',
+    3 => '18368091722@163.com',
+  ),
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T21:54:44+08:00] 127.0.0.1 GET myrhaphp.com/install/index/sql.html
+[运行时间：0.075081s] [吞吐率：13.32req/s] [内存消耗：3,504.31kb] [文件加载：93]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\sql.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+[ info ] [ DB ] INIT mysql
+[ error ] [8]未定义数组下标: 4[C:\phpStudy\PHPTutorial\WWW\rhaphp\application\install\common.php:138]
+---------------------------------------------------------------
+[2019-05-13T21:54:44+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.035779s] [吞吐率：27.95req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T21:57:44+08:00] 127.0.0.1 GET myrhaphp.com/install/index/config.html
+[运行时间：0.076705s] [吞吐率：13.04req/s] [内存消耗：2,673.84kb] [文件加载：84]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/Install/index/check.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\config.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T21:57:44+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.042158s] [吞吐率：23.72req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T21:58:36+08:00] 127.0.0.1 POST myrhaphp.com/install/index/config.html
+[运行时间：0.354892s] [吞吐率：2.82req/s] [内存消耗：3,397.63kb] [文件加载：87]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '204',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  'db' => 
+  array (
+    0 => 'mysql',
+    1 => '132.232.50.253',
+    2 => 'RhaPHP',
+    3 => 'liuyu',
+    4 => 'grh394492474',
+    5 => '3306',
+    6 => 'rh_',
+  ),
+  'admin' => 
+  array (
+    0 => 'admin',
+    1 => '123456',
+    2 => '123456',
+    3 => 'admin@admin.com',
+  ),
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T21:58:36+08:00] 127.0.0.1 GET myrhaphp.com/install/index/sql.html
+[运行时间：0.053420s] [吞吐率：18.72req/s] [内存消耗：3,278.73kb] [文件加载：85]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\sql.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T21:58:36+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.056903s] [吞吐率：17.57req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:00:32+08:00] 127.0.0.1 GET myrhaphp.com/install/index/config.html
+[运行时间：0.061737s] [吞吐率：16.20req/s] [内存消耗：2,454.93kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/Install/index/check.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\config.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:00:32+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.042179s] [吞吐率：23.71req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:01:18+08:00] 127.0.0.1 POST myrhaphp.com/install/index/config.html
+[运行时间：0.442491s] [吞吐率：2.26req/s] [内存消耗：3,397.64kb] [文件加载：87]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '207',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  'db' => 
+  array (
+    0 => 'mysql',
+    1 => '132.232.50.253',
+    2 => 'Rhauu',
+    3 => 'liuyu',
+    4 => 'grh394492474',
+    5 => '3306',
+    6 => 'rh_',
+  ),
+  'admin' => 
+  array (
+    0 => 'admin',
+    1 => '123456',
+    2 => '123456',
+    3 => '18368091722@163.com',
+  ),
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T22:01:18+08:00] 127.0.0.1 GET myrhaphp.com/install/index/sql.html
+[运行时间：0.059713s] [吞吐率：16.75req/s] [内存消耗：3,278.73kb] [文件加载：85]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\sql.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T22:01:19+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.036655s] [吞吐率：27.28req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:17:51+08:00] 127.0.0.1 GET myrhaphp.com/install/index/config.html
+[运行时间：0.078865s] [吞吐率：12.68req/s] [内存消耗：2,455.22kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/Install/index/check.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\config.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:17:52+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.047325s] [吞吐率：21.13req/s] [内存消耗：1,927.49kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:18:08+08:00] 127.0.0.1 GET myrhaphp.com/install/index/config.html
+[运行时间：0.055996s] [吞吐率：17.86req/s] [内存消耗：2,454.63kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\config.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:18:08+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.044119s] [吞吐率：22.67req/s] [内存消耗：1,927.49kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:18:42+08:00] 127.0.0.1 GET myrhaphp.com/
+[运行时间：0.059289s] [吞吐率：16.87req/s] [内存消耗：2,319.59kb] [文件加载：76]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T22:18:42+08:00] 127.0.0.1 GET myrhaphp.com/?s=install
+[运行时间：0.057550s] [吞吐率：17.38req/s] [内存消耗：2,458.70kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\index.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:18:43+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.048953s] [吞吐率：20.43req/s] [内存消耗：1,927.49kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:19:30+08:00] 127.0.0.1 GET myrhaphp.com/?s=install
+[运行时间：0.056890s] [吞吐率：17.58req/s] [内存消耗：2,458.45kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\index.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:19:31+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.042863s] [吞吐率：23.33req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:19:33+08:00] 127.0.0.1 GET myrhaphp.com/Install/index/check.html
+[运行时间：0.061434s] [吞吐率：16.28req/s] [内存消耗：2,463.54kb] [文件加载：84]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/?s=install',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\check.html [ array (
+  0 => 'stlUrl',
+  1 => 'dirfile',
+  2 => 'env',
+  3 => 'func',
+  4 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:19:33+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.067281s] [吞吐率：14.86req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:19:37+08:00] 127.0.0.1 GET myrhaphp.com/install/index/config.html
+[运行时间：0.090185s] [吞吐率：11.09req/s] [内存消耗：2,454.97kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/Install/index/check.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\config.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:19:37+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.072076s] [吞吐率：13.87req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:20:33+08:00] 127.0.0.1 POST myrhaphp.com/install/index/config.html
+[运行时间：2.359708s] [吞吐率：0.42req/s] [内存消耗：3,351.67kb] [文件加载：87]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '278',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  'db' => 
+  array (
+    0 => 'mysql',
+    1 => 'grh394492474',
+    2 => 'RhaPHP微信平台管理系统',
+    3 => 'liuyu',
+    4 => 'grh394492474',
+    5 => '3306',
+    6 => 'rh_',
+  ),
+  'admin' => 
+  array (
+    0 => 'admin',
+    1 => '123456',
+    2 => '123456',
+    3 => '18368091722@163.com',
+  ),
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [2002]SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ��֪�������������� [C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\library\think\db\Connection.php:528]
+---------------------------------------------------------------
+[2019-05-13T22:21:26+08:00] 127.0.0.1 GET myrhaphp.com/install/index/config.html
+[运行时间：0.074182s] [吞吐率：13.48req/s] [内存消耗：2,455.05kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/Install/index/check.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\config.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:21:27+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.045080s] [吞吐率：22.18req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:22:07+08:00] 127.0.0.1 POST myrhaphp.com/install/index/config.html
+[运行时间：0.324620s] [吞吐率：3.08req/s] [内存消耗：3,397.69kb] [文件加载：87]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '206',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  'db' => 
+  array (
+    0 => 'mysql',
+    1 => '132.232.50.253',
+    2 => 'trte',
+    3 => 'liuyu',
+    4 => 'grh394492474',
+    5 => '3306',
+    6 => 'rh_',
+  ),
+  'admin' => 
+  array (
+    0 => 'admin',
+    1 => '123456',
+    2 => '123456',
+    3 => '18368091722@163.com',
+  ),
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T22:22:07+08:00] 127.0.0.1 GET myrhaphp.com/install/index/sql.html
+[运行时间：0.070367s] [吞吐率：14.21req/s] [内存消耗：3,362.96kb] [文件加载：91]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\sql.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+[ info ] [ DB ] INIT mysql
+[ error ] [2]file_get_contents(C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../public/datasql.sql): failed to open stream: No such file or directory[C:\phpStudy\PHPTutorial\WWW\rhaphp\application\install\common.php:142]
+---------------------------------------------------------------
+[2019-05-13T22:22:07+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.050842s] [吞吐率：19.67req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:22:46+08:00] 127.0.0.1 GET myrhaphp.com/install/index/config.html
+[运行时间：0.081791s] [吞吐率：12.23req/s] [内存消耗：2,454.95kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/Install/index/check.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\config.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:22:46+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.056480s] [吞吐率：17.71req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:23:48+08:00] 127.0.0.1 POST myrhaphp.com/install/index/config.html
+[运行时间：0.311539s] [吞吐率：3.21req/s] [内存消耗：3,397.60kb] [文件加载：87]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '206',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  'db' => 
+  array (
+    0 => 'mysql',
+    1 => '132.232.50.253',
+    2 => 'fdgs',
+    3 => 'liuyu',
+    4 => 'grh394492474',
+    5 => '3306',
+    6 => 'rh_',
+  ),
+  'admin' => 
+  array (
+    0 => 'admin',
+    1 => '123456',
+    2 => '123456',
+    3 => '18368091722@163.com',
+  ),
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T22:24:05+08:00] 127.0.0.1 GET myrhaphp.com/install/index/sql.html
+[运行时间：16.242899s] [吞吐率：0.06req/s] [内存消耗：3,377.64kb] [文件加载：88]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/config.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\sql.html [ array (
+  0 => 'stlUrl',
+  1 => 'status',
+) ]
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T22:24:05+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.041440s] [吞吐率：24.13req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:24:06+08:00] 127.0.0.1 GET myrhaphp.com/install/index/complete.html
+[运行时间：0.967977s] [吞吐率：1.03req/s] [内存消耗：2,657.92kb] [文件加载：84]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/sql.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\public/../application/install/view/index\complete.html [ array (
+  0 => 'stlUrl',
+  1 => 'app_by_api',
+  2 => 'data_by_api',
+  3 => 'status',
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:24:06+08:00] 127.0.0.1 GET myrhaphp.com/static/jquery/jquery.min.map
+[运行时间：0.041458s] [吞吐率：24.12req/s] [内存消耗：1,927.24kb] [文件加载：64]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T22:24:18+08:00] 127.0.0.1 GET myrhaphp.com/
+[运行时间：0.407413s] [吞吐率：2.45req/s] [内存消耗：3,408.59kb] [文件加载：87]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%222b24b07c4c54a87ca8a3ec575b5b3abd%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%2239.180.116.173%22%2C%22last_time%22%3A%221557631767%22%2C%22rand_str%22%3A%22lzVfEi%22%2C%22admin_id%22%3A%221%22%7D; PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/complete.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.142854s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.096793s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.100307s ]
+---------------------------------------------------------------
+[2019-05-13T22:24:18+08:00] 127.0.0.1 GET myrhaphp.com/admin/login/index.html
+[运行时间：0.068071s] [吞吐率：14.69req/s] [内存消耗：2,607.85kb] [文件加载：82]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/install/index/complete.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/system\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T22:24:18+08:00] 127.0.0.1 GET myrhaphp.com/admin/login/verify.html
+[运行时间：0.074911s] [吞吐率：13.35req/s] [内存消耗：2,381.44kb] [文件加载：78]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/admin/login/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'image/png,image/*;q=0.8,*/*;q=0.5',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T22:24:42+08:00] 127.0.0.1 GET myrhaphp.com/admin/login/verify.html?0.8498821831540117
+[运行时间：0.080885s] [吞吐率：12.36req/s] [内存消耗：2,381.88kb] [文件加载：78]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/admin/login/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'image/png,image/*;q=0.8,*/*;q=0.5',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  '0_8498821831540117' => '',
+)
+---------------------------------------------------------------
+[2019-05-13T22:24:43+08:00] 127.0.0.1 GET myrhaphp.com/admin/login/verify.html?0.9291261428745536
+[运行时间：0.057739s] [吞吐率：17.32req/s] [内存消耗：2,381.88kb] [文件加载：78]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/admin/login/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'image/png,image/*;q=0.8,*/*;q=0.5',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  '0_9291261428745536' => '',
+)
+---------------------------------------------------------------
+[2019-05-13T22:24:44+08:00] 127.0.0.1 GET myrhaphp.com/admin/login/verify.html?0.5839048077762626
+[运行时间：0.063308s] [吞吐率：15.80req/s] [内存消耗：2,381.88kb] [文件加载：78]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'referer' => 'http://myrhaphp.com/admin/login/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'image/png,image/*;q=0.8,*/*;q=0.5',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  '0_5839048077762626' => '',
+)
+---------------------------------------------------------------
+[2019-05-13T22:24:53+08:00] 127.0.0.1 POST myrhaphp.com/admin/login/index.html
+[运行时间：0.076757s] [吞吐率：13.03req/s] [内存消耗：2,386.42kb] [文件加载：79]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'content-length' => '44',
+  'referer' => 'http://myrhaphp.com/admin/login/index.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  'user_name' => 'admin',
+  'password' => '123456',
+  'verify' => 'ufyez',
+)
+---------------------------------------------------------------
+[2019-05-13T22:24:59+08:00] 127.0.0.1 POST myrhaphp.com/admin/login/index.html
+[运行时间：0.537871s] [吞吐率：1.86req/s] [内存消耗：3,336.35kb] [文件加载：85]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125',
+  'content-length' => '44',
+  'referer' => 'http://myrhaphp.com/admin/login/index.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+  'user_name' => 'admin',
+  'password' => '123456',
+  'verify' => 'ufye7',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.147627s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.110019s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_admin` WHERE  `admin_name` = 'admin'  AND `status` = 1 LIMIT 1 [ RunTime:0.103180s ]
+[ sql ] [ SQL ] UPDATE `rh_admin`  SET `ip` = '127.0.0.1' , `last_time` = 1557757499  WHERE  `admin_name` = 'admin' [ RunTime:0.109688s ]
+---------------------------------------------------------------
+[2019-05-13T22:25:06+08:00] 127.0.0.1 GET myrhaphp.com/mp/mp/index.html
+[运行时间：4.372948s] [吞吐率：0.23req/s] [内存消耗：4,510.45kb] [文件加载：104]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/login/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'menu_app',
+  13 => 'menu_app_title',
+  14 => 'mid',
+  15 => 'app_by_api',
+  16 => 'data_by_api',
+  17 => 'report',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.137385s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.103765s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.094386s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.104388s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.097099s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.097046s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.092061s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.098072s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.202765s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.096231s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.411038s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.182868s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.216974s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `menu_show` = 1  AND `status` = 1 [ RunTime:0.131769s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp_friends` [ RunTime:0.124043s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.102332s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.095194s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.093979s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.110749s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.098020s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.092519s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.094846s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.097990s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.109297s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.092104s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.105096s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.096972s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.095642s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.094273s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.101067s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.093887s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1 LIMIT 1 [ RunTime:0.094497s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 LIMIT 1 [ RunTime:0.116815s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0 LIMIT 1 [ RunTime:0.093282s ]
+---------------------------------------------------------------
+[2019-05-13T23:10:50+08:00] 127.0.0.1 GET myrhaphp.com/admin/app/index.html
+[运行时间：3.261108s] [吞吐率：0.31req/s] [内存消耗：3,671.79kb] [文件加载：92]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/mp/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/app\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'addons',
+  13 => 'apps',
+  14 => 'type',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.566484s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.800611s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.408021s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.226548s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.169634s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.126141s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.112148s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.133725s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.111995s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.126957s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.111764s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `status` = 1 [ RunTime:0.142531s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `status` = 1 [ RunTime:0.114552s ]
+---------------------------------------------------------------
+[2019-05-13T23:10:52+08:00] 127.0.0.1 GET myrhaphp.com/admin/app/index.html
+[运行时间：1.834849s] [吞吐率：0.55req/s] [内存消耗：3,497.64kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/mp/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/app\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'addons',
+  13 => 'apps',
+  14 => 'type',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.160119s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.143224s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.103099s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.129825s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.143239s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.111782s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.230926s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.165729s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.105905s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.149461s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.107680s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `status` = 1 [ RunTime:0.101220s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `status` = 1 [ RunTime:0.101450s ]
+---------------------------------------------------------------
+[2019-05-13T23:10:54+08:00] 127.0.0.1 GET myrhaphp.com/admin/app/index.html
+[运行时间：3.515030s] [吞吐率：0.28req/s] [内存消耗：3,497.64kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/mp/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/app\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'addons',
+  13 => 'apps',
+  14 => 'type',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.161950s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.099159s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.147385s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.158839s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.147728s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.198751s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.125863s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.108672s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.116099s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.124091s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.103941s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `status` = 1 [ RunTime:0.115213s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `status` = 1 [ RunTime:0.121641s ]
+---------------------------------------------------------------
+[2019-05-13T23:10:55+08:00] 127.0.0.1 GET myrhaphp.com/admin/app/index.html
+[运行时间：4.019775s] [吞吐率：0.25req/s] [内存消耗：3,497.64kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/mp/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/app\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'addons',
+  13 => 'apps',
+  14 => 'type',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.148191s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.099824s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.122076s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.113657s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.144420s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.105668s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.119595s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.100191s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.106215s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.133599s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.095773s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `status` = 1 [ RunTime:0.096502s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `status` = 1 [ RunTime:0.175832s ]
+---------------------------------------------------------------
+[2019-05-13T23:10:58+08:00] 127.0.0.1 GET myrhaphp.com/miniapp/miniapp/topnav.html
+[运行时间：5.994872s] [吞吐率：0.17req/s] [内存消耗：3,499.64kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/mp/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.564270s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.107442s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.677957s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.107115s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.126035s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.446373s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'miniapp/miniapp/topnav' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.102589s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'miniapp/miniapp/topnav' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.111124s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.105339s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.101633s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_miniapp` [ RunTime:0.099670s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_miniapp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.112689s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:01+08:00] 127.0.0.1 GET myrhaphp.com/admin/system/index.html
+[运行时间：7.245707s] [吞吐率：0.14req/s] [内存消耗：3,471.17kb] [文件加载：89]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/mp/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.172028s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.113360s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.100694s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.100475s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.099485s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:1.085219s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.389463s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.765963s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.101599s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.101111s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:02+08:00] 127.0.0.1 GET myrhaphp.com/admin/system/index.html
+[运行时间：6.709564s] [吞吐率：0.15req/s] [内存消耗：3,471.17kb] [文件加载：89]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/mp/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.148772s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.098008s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.096992s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.099814s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.097836s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.108772s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.096145s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.098874s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.100205s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.101775s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:04+08:00] 127.0.0.1 GET myrhaphp.com/mp/index/mplist.html
+[运行时间：1.455657s] [吞吐率：0.69req/s] [内存消耗：3,650.14kb] [文件加载：92]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/mp/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/index\mplist.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'mpList',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.157657s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.099923s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.099356s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.105203s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.099994s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.106112s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/index/mplist' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.109889s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.117316s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.094017s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.112662s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1 [ RunTime:0.191746s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:17+08:00] 127.0.0.1 GET myrhaphp.com/mp/mp/index.html
+[运行时间：6.514827s] [吞吐率：0.15req/s] [内存消耗：4,302.14kb] [文件加载：102]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/index/mplist.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'menu_app',
+  13 => 'menu_app_title',
+  14 => 'mid',
+  15 => 'app_by_api',
+  16 => 'data_by_api',
+  17 => 'report',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.501557s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.188285s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.226294s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.217761s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.115534s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.194224s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.208126s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.132683s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.100872s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.165326s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.099454s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.101994s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.102110s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `menu_show` = 1  AND `status` = 1 [ RunTime:0.098513s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp_friends` [ RunTime:0.113142s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.109056s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.100714s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.097060s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.095807s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.100093s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.099951s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.104303s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.109001s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.101386s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.101624s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.101371s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.100723s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.110540s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.097825s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.096315s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.112723s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1 LIMIT 1 [ RunTime:0.093995s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 LIMIT 1 [ RunTime:0.102269s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0 LIMIT 1 [ RunTime:0.095557s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:32+08:00] 127.0.0.1 GET myrhaphp.com/mp/friends/index.html
+[运行时间：1.755313s] [吞吐率：0.57req/s] [内存消耗：4,238.07kb] [文件加载：106]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/mp/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/friends\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'menu_app',
+  13 => 'menu_app_title',
+  14 => 'mid',
+  15 => 'friendList',
+  16 => 'post',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.139019s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.097461s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.093958s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.105631s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.095202s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.095785s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/friends/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.108785s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.100787s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.098450s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.100388s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.093945s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.097938s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `menu_show` = 1  AND `status` = 1 [ RunTime:0.102896s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp_friends` [ RunTime:0.094458s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 LIMIT 1 [ RunTime:0.096350s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 ORDER BY `subscribe_time` DESC LIMIT 0,20 [ RunTime:0.105046s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:41+08:00] 127.0.0.1 GET myrhaphp.com/admin/system/index.html
+[运行时间：1.223142s] [吞吐率：0.82req/s] [内存消耗：3,471.18kb] [文件加载：89]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/friends/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.153627s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.102543s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.107011s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.110166s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.126211s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.114748s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.111906s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.117079s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.107598s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.107750s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:43+08:00] 127.0.0.1 GET myrhaphp.com/mp/index/mplist.html
+[运行时间：1.297360s] [吞吐率：0.77req/s] [内存消耗：3,485.80kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/friends/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/index\mplist.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'mpList',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.154822s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.097707s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.101857s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.099653s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.143568s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.112373s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/index/mplist' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.102930s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.098741s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.099665s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.099657s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1 [ RunTime:0.101173s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:50+08:00] 127.0.0.1 GET myrhaphp.com/admin/app/index.html
+[运行时间：3.074206s] [吞吐率：0.33req/s] [内存消耗：3,497.65kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/mp/index/mplist.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/app\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'addons',
+  13 => 'apps',
+  14 => 'type',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.359666s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.172155s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.306430s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.294621s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.319173s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.307969s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.305277s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.305317s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.209609s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.101739s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.099097s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `status` = 1 [ RunTime:0.104666s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `status` = 1 [ RunTime:0.102798s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:54+08:00] 127.0.0.1 GET myrhaphp.com/admin/appstore/index.html
+[运行时间：1.808546s] [吞吐率：0.55req/s] [内存消耗：3,747.64kb] [文件加载：92]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/app/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/appstore\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'type',
+  13 => 'cate',
+  14 => 'apps',
+  15 => 'title',
+  16 => 'page',
+  17 => 'cate_id',
+  18 => 'user',
+  19 => 'token',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.150369s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.100162s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.100037s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.100664s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.098834s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.109488s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/appstore/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.118629s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.108589s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.101377s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.111874s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:57+08:00] 127.0.0.1 GET myrhaphp.com/admin/appstore/index.html
+[运行时间：1.436815s] [吞吐率：0.70req/s] [内存消耗：3,560.66kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/appstore\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'type',
+  13 => 'cate',
+  14 => 'apps',
+  15 => 'title',
+  16 => 'page',
+  17 => 'cate_id',
+  18 => 'user',
+  19 => 'token',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.163749s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.101738s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.098745s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.107665s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.100059s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.100112s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/appstore/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.099155s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.106083s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.099207s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.099045s ]
+---------------------------------------------------------------
+[2019-05-13T23:11:59+08:00] 127.0.0.1 GET myrhaphp.com/admin/appstore/upgrade.html
+[运行时间：1.164012s] [吞吐率：0.86req/s] [内存消耗：3,618.26kb] [文件加载：93]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\tpl/dispatch_jump.tpl [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'code',
+  13 => 'msg',
+  14 => 'data',
+  15 => 'url',
+  16 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.155432s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.095350s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.125470s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.099461s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.104806s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.098975s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/appstore/upgrade' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.099414s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.098906s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.102300s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.102473s ]
+---------------------------------------------------------------
+[2019-05-13T23:12:01+08:00] 127.0.0.1 GET myrhaphp.com/admin/appstore/upgrade.html
+[运行时间：1.948695s] [吞吐率：0.51req/s] [内存消耗：3,482.94kb] [文件加载：91]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\tpl/dispatch_jump.tpl [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'code',
+  13 => 'msg',
+  14 => 'data',
+  15 => 'url',
+  16 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.158599s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.184055s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.297350s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.320630s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.236229s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.223258s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/appstore/upgrade' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.113350s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.102930s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.102113s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.126575s ]
+---------------------------------------------------------------
+[2019-05-13T23:12:02+08:00] 127.0.0.1 GET myrhaphp.com/admin/appstore/upgrade.html
+[运行时间：2.873431s] [吞吐率：0.35req/s] [内存消耗：3,482.94kb] [文件加载：91]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\tpl/dispatch_jump.tpl [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'code',
+  13 => 'msg',
+  14 => 'data',
+  15 => 'url',
+  16 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.160076s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.100364s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.100562s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.101775s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.108889s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.104264s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/appstore/upgrade' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.111411s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.101749s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.106465s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.101887s ]
+---------------------------------------------------------------
+[2019-05-13T23:12:04+08:00] 127.0.0.1 GET myrhaphp.com/admin/appstore/index.html
+[运行时间：3.429193s] [吞吐率：0.29req/s] [内存消耗：3,560.66kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/appstore\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'type',
+  13 => 'cate',
+  14 => 'apps',
+  15 => 'title',
+  16 => 'page',
+  17 => 'cate_id',
+  18 => 'user',
+  19 => 'token',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.152015s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.115687s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.097439s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.100541s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.098812s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.107145s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/appstore/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.105729s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.102371s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.110390s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.103852s ]
+---------------------------------------------------------------
+[2019-05-13T23:12:06+08:00] 127.0.0.1 GET myrhaphp.com/admin/appstore/index.html
+[运行时间：4.642821s] [吞吐率：0.22req/s] [内存消耗：3,560.66kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/appstore\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'type',
+  13 => 'cate',
+  14 => 'apps',
+  15 => 'title',
+  16 => 'page',
+  17 => 'cate_id',
+  18 => 'user',
+  19 => 'token',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.141585s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.099330s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.100949s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.097278s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.114813s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.163650s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/appstore/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.135519s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.106579s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.108449s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.122323s ]
+---------------------------------------------------------------
+[2019-05-13T23:12:07+08:00] 127.0.0.1 GET myrhaphp.com/admin/appstore/index.html
+[运行时间：5.184254s] [吞吐率：0.19req/s] [内存消耗：3,560.66kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/appstore\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'type',
+  13 => 'cate',
+  14 => 'apps',
+  15 => 'title',
+  16 => 'page',
+  17 => 'cate_id',
+  18 => 'user',
+  19 => 'token',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.143894s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.096326s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.111033s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.099446s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.100019s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.102229s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/appstore/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.101281s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.099351s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.111173s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.094930s ]
+---------------------------------------------------------------
+[2019-05-13T23:12:09+08:00] 127.0.0.1 GET myrhaphp.com/admin/appstore/index.html
+[运行时间：4.891544s] [吞吐率：0.20req/s] [内存消耗：3,560.66kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/appstore\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'type',
+  13 => 'cate',
+  14 => 'apps',
+  15 => 'title',
+  16 => 'page',
+  17 => 'cate_id',
+  18 => 'user',
+  19 => 'token',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.148467s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.100886s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.103565s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.100228s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.099397s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.123688s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/appstore/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.099683s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.099907s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.096898s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.097485s ]
+---------------------------------------------------------------
+[2019-05-13T23:12:10+08:00] 127.0.0.1 GET myrhaphp.com/admin/appstore/index.html
+[运行时间：4.431437s] [吞吐率：0.23req/s] [内存消耗：3,560.66kb] [文件加载：90]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/admin/appstore\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'type',
+  13 => 'cate',
+  14 => 'apps',
+  15 => 'title',
+  16 => 'page',
+  17 => 'cate_id',
+  18 => 'user',
+  19 => 'token',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.156384s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.098022s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.100697s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.106554s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.119131s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.118466s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/appstore/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.111608s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/app/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.106263s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.101621s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.105394s ]
+---------------------------------------------------------------
+[2019-05-13T23:14:34+08:00] 127.0.0.1 GET myrhaphp.com/mp/mp/index.html
+[运行时间：3.778328s] [吞吐率：0.26req/s] [内存消耗：4,301.94kb] [文件加载：102]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'menu_app',
+  13 => 'menu_app_title',
+  14 => 'mid',
+  15 => 'app_by_api',
+  16 => 'data_by_api',
+  17 => 'report',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.152924s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.102789s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.103528s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.105930s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.123094s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.170435s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.113854s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.099947s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.102048s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.102250s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.118184s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.098666s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `menu_show` = 1  AND `status` = 1 [ RunTime:0.097643s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp_friends` [ RunTime:0.103726s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.123676s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.100198s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.099552s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.097552s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.101444s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.099879s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.101110s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.103423s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.098968s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.105845s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.101242s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.096723s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.100274s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.096058s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.100799s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.101168s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1 LIMIT 1 [ RunTime:0.097383s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 LIMIT 1 [ RunTime:0.104770s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0 LIMIT 1 [ RunTime:0.097418s ]
+---------------------------------------------------------------
+[2019-05-13T23:14:54+08:00] 127.0.0.1 GET myrhaphp.com/mp/mp/index.html
+[运行时间：20.986568s] [吞吐率：0.05req/s] [内存消耗：4,301.94kb] [文件加载：102]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'menu_app',
+  13 => 'menu_app_title',
+  14 => 'mid',
+  15 => 'app_by_api',
+  16 => 'data_by_api',
+  17 => 'report',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.157183s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.101789s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.101911s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.116676s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.112420s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.106735s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.158486s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.097548s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.119766s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.125555s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.127210s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.229461s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `menu_show` = 1  AND `status` = 1 [ RunTime:0.097341s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp_friends` [ RunTime:0.307610s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.303730s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.305561s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.313719s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.444587s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.302221s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.295405s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.171811s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.194199s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.103374s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.097858s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.095461s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.097178s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.108059s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.108069s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.129132s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.102196s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1 LIMIT 1 [ RunTime:0.098486s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 LIMIT 1 [ RunTime:0.107826s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0 LIMIT 1 [ RunTime:0.099812s ]
+---------------------------------------------------------------
+[2019-05-13T23:14:58+08:00] 127.0.0.1 GET myrhaphp.com/mp/mp/index.html
+[运行时间：22.476139s] [吞吐率：0.04req/s] [内存消耗：4,301.94kb] [文件加载：102]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'menu_app',
+  13 => 'menu_app_title',
+  14 => 'mid',
+  15 => 'app_by_api',
+  16 => 'data_by_api',
+  17 => 'report',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.175694s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.100682s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.103435s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.100056s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.102413s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.102319s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.099509s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.102670s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.107834s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.105475s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.119840s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.103952s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `menu_show` = 1  AND `status` = 1 [ RunTime:0.109881s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp_friends` [ RunTime:0.112452s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.103913s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.109516s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.105252s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.114327s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.119039s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.099768s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.102461s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.100322s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.100234s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.101101s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.116251s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.113054s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.100504s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.101656s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.121120s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.131669s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1 LIMIT 1 [ RunTime:0.101372s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 LIMIT 1 [ RunTime:0.100862s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0 LIMIT 1 [ RunTime:0.101709s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:02+08:00] 127.0.0.1 GET myrhaphp.com/mp/mp/index.html
+[运行时间：26.236498s] [吞吐率：0.04req/s] [内存消耗：4,301.94kb] [文件加载：102]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'menu_app',
+  13 => 'menu_app_title',
+  14 => 'mid',
+  15 => 'app_by_api',
+  16 => 'data_by_api',
+  17 => 'report',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.148163s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.098082s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.102422s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.104388s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.101553s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.098902s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.101748s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.099692s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.112535s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.145715s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.151399s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.101515s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `menu_show` = 1  AND `status` = 1 [ RunTime:0.100331s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp_friends` [ RunTime:0.116182s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.126609s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.106295s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.100420s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.100415s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.099152s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.097671s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.103972s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.098302s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.106735s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.094837s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.100828s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.102099s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.099251s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.107165s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.095534s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.097295s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1 LIMIT 1 [ RunTime:0.100499s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 LIMIT 1 [ RunTime:0.103736s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0 LIMIT 1 [ RunTime:0.100670s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:03+08:00] 127.0.0.1 GET myrhaphp.com/admin/system/index.html
+[运行时间：9.104287s] [吞吐率：0.11req/s] [内存消耗：3,471.18kb] [文件加载：89]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.151103s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.100259s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.101691s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.098346s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.100033s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.115848s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.114640s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.112267s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.188576s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.314435s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:05+08:00] 127.0.0.1 GET myrhaphp.com/admin/system/index.html
+[运行时间：6.970224s] [吞吐率：0.14req/s] [内存消耗：3,471.18kb] [文件加载：89]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.312135s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.240572s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.228723s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.117810s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.207758s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.127020s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.117196s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.102280s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.111095s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.105954s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:06+08:00] 127.0.0.1 GET myrhaphp.com/admin/system/index.html
+[运行时间：4.172659s] [吞吐率：0.24req/s] [内存消耗：3,471.18kb] [文件加载：89]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.156034s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.100077s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.120033s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.093195s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.126649s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.101860s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.099216s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.099255s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.103439s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.101259s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:07+08:00] 127.0.0.1 GET myrhaphp.com/admin/system/index.html
+[运行时间：3.897461s] [吞吐率：0.26req/s] [内存消耗：3,471.18kb] [文件加载：89]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.162219s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.102535s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.111670s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.103254s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.101751s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.103617s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.102935s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.100828s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.106262s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.105134s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:08+08:00] 127.0.0.1 GET myrhaphp.com/admin/system/index.html
+[运行时间：3.282678s] [吞吐率：0.30req/s] [内存消耗：3,471.18kb] [文件加载：89]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.145281s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.100904s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.103107s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.096551s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.107093s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.107124s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.095786s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.109366s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.099271s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.102972s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:09+08:00] 127.0.0.1 GET myrhaphp.com/admin/system/index.html
+[运行时间：3.405296s] [吞吐率：0.29req/s] [内存消耗：3,471.18kb] [文件加载：89]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.203239s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.125345s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.097799s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.102445s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.100697s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.113052s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.119650s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.098763s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.108842s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.131055s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:11+08:00] 127.0.0.1 GET myrhaphp.com/admin/system/index.html
+[运行时间：3.422336s] [吞吐率：0.29req/s] [内存消耗：3,471.18kb] [文件加载：89]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.150493s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.099648s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.126401s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.100335s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.096084s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.101580s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.105136s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'admin/system/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.104589s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.100971s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.112792s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:18+08:00] 127.0.0.1 GET myrhaphp.com/mp/mp/index.html
+[运行时间：9.983428s] [吞吐率：0.10req/s] [内存消耗：4,301.94kb] [文件加载：102]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'menu_app',
+  13 => 'menu_app_title',
+  14 => 'mid',
+  15 => 'app_by_api',
+  16 => 'data_by_api',
+  17 => 'report',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:3.162693s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.102066s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.097340s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.280913s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.261780s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.183634s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.285426s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.106373s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.217118s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.121982s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.101714s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.099483s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `menu_show` = 1  AND `status` = 1 [ RunTime:0.100622s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp_friends` [ RunTime:0.104646s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.103182s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.097414s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.103565s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.101544s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.106133s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.098206s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.102096s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.100327s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.096650s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.100817s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.100500s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.103511s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.097906s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.104250s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.101425s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.096940s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1 LIMIT 1 [ RunTime:0.102115s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 LIMIT 1 [ RunTime:0.101633s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0 LIMIT 1 [ RunTime:0.101005s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:22+08:00] 127.0.0.1 GET myrhaphp.com/mp/mp/index.html
+[运行时间：12.703744s] [吞吐率：0.08req/s] [内存消耗：4,301.94kb] [文件加载：102]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'menu_app',
+  13 => 'menu_app_title',
+  14 => 'mid',
+  15 => 'app_by_api',
+  16 => 'data_by_api',
+  17 => 'report',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.162295s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.100057s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.123414s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.103239s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.100535s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.098529s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.115393s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.108194s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.114680s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.127543s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.101265s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.108435s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `menu_show` = 1  AND `status` = 1 [ RunTime:0.107853s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp_friends` [ RunTime:0.118602s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.118768s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.102185s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.120660s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.101419s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.136641s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.124467s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.110855s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.111811s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.121787s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.102501s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.099534s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.095670s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.105857s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.095094s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.119930s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.102599s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1 LIMIT 1 [ RunTime:0.100097s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 LIMIT 1 [ RunTime:0.108719s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0 LIMIT 1 [ RunTime:0.106521s ]
+---------------------------------------------------------------
+[2019-05-13T23:15:26+08:00] 127.0.0.1 GET myrhaphp.com/mp/mp/index.html
+[运行时间：15.694126s] [吞吐率：0.06req/s] [内存消耗：4,301.94kb] [文件加载：102]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\rhaphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=rmml44ofq673q1eotqthmqd125; think_admin=think%3A%7B%22id%22%3A%221%22%2C%22admin_name%22%3A%22admin%22%2C%22password%22%3A%22774d17093bb12f11608f756ff84d6771%22%2C%22status%22%3A%221%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22last_time%22%3A%221557757445%22%2C%22rand_str%22%3A%22ijqrZX%22%2C%22admin_id%22%3A%221%22%7D',
+  'referer' => 'http://myrhaphp.com/admin/appstore/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'host' => 'myrhaphp.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html [ array (
+  0 => 'mpByMenu',
+  1 => 't_menu',
+  2 => 'topNode',
+  3 => 'menu_title',
+  4 => 'node',
+  5 => 'menu',
+  6 => 'controller_name',
+  7 => 'action_name',
+  8 => 'admin',
+  9 => 'mpInfo',
+  10 => 'copy',
+  11 => 'setScreen',
+  12 => 'menu_app',
+  13 => 'menu_app_title',
+  14 => 'mid',
+  15 => 'app_by_api',
+  16 => 'data_by_api',
+  17 => 'report',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.150482s ] mysql:host=132.232.50.253;port=3306;dbname=fdgs;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_admin` [ RunTime:0.106850s ]
+[ sql ] [ SQL ] SELECT `password` FROM `rh_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.099150s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_menu` [ RunTime:0.096410s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0 ORDER BY `sort` ASC [ RunTime:0.103005s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` ORDER BY `sort` ASC [ RunTime:0.107473s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.098467s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_menu` WHERE  `pid` = 0  AND `url` = 'mp/mp/index' ORDER BY `sort` ASC LIMIT 1 [ RunTime:0.097806s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp` [ RunTime:0.129641s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `status` = 1 [ RunTime:0.118064s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_mp` WHERE  `user_id` = 1  AND `is_use` = 1 LIMIT 1 [ RunTime:0.145681s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_addons` [ RunTime:0.144924s ]
+[ sql ] [ SQL ] SELECT * FROM `rh_addons` WHERE  `menu_show` = 1  AND `status` = 1 [ RunTime:0.115007s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `rh_mp_friends` [ RunTime:0.108645s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.129726s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.098760s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.103553s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.127822s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.106130s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.168253s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.100647s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1  AND `subscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.103387s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1557763200 LIMIT 1 [ RunTime:0.098734s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557590400 AND 1557676800 LIMIT 1 [ RunTime:0.102032s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557676800 AND 1558281600 LIMIT 1 [ RunTime:0.102851s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1557072000 AND 1557676800 LIMIT 1 [ RunTime:0.206772s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1556640000 AND 1559318400 LIMIT 1 [ RunTime:0.096815s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1554048000 AND 1556640000 LIMIT 1 [ RunTime:0.179764s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1546272000 AND 1577808000 LIMIT 1 [ RunTime:0.096962s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0  AND `unsubscribe_time` BETWEEN 1514736000 AND 1546272000 LIMIT 1 [ RunTime:0.197470s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1 LIMIT 1 [ RunTime:0.113378s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 1 LIMIT 1 [ RunTime:0.110509s ]
+[ sql ] [ SQL ] SELECT COUNT(`id`) AS tp_count FROM `rh_mp_friends` WHERE  `mpid` = 1  AND `subscribe` = 0 LIMIT 1 [ RunTime:0.105698s ]

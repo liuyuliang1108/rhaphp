@@ -31,9 +31,9 @@
             <div class="layui-row" style="background: #ffffff;">
                 <div class="layui-col-md8">
                     <span id="apps-cate-lists" class="layui-breadcrumb app_nav" lay-separator="|">
-                        <a href="{:url('index',['type'=>$type,'cate'=>0])}">{if $cate_id == 0} <span class="cite">全部</span>{else /}全部{/if}</a>
+                        <a href="../../../../public/index.php">{if $cate_id == 0} <span class="cite">全部</span>{else /}全部{/if}</a>
                         {volist name="cate" id="v"}
-                      <a href="{:url('index',['type'=>$type,'cate'=>$v.cid])}">
+                      <a href="../../../../public/index.php">
                           {if $cate_id == $v.cid} <span class="cite">{$v.cate_name}</span>{else /}{$v.cate_name}{/if}
                           </a>
                         {/volist}
@@ -90,11 +90,11 @@
             <div class="layui-row">
                 <div class="layui-col-md3 layui-col-md-offset9">
                     <div class="apps-page">
-                        <a href="{:url('index',['type'=>$type,'cate'=>$cate_id,'page'=>$page-1])}" class="layui-btn layui-btn-sm">
+                        <a href="../../../../public/index.php" class="layui-btn layui-btn-sm">
                             <i class="layui-icon">&#xe603;</i>
                             上一页
                         </a>
-                        <a href="{:url('index',['type'=>$type,'cate'=>$cate_id,'page'=>$page+1])}" class="layui-btn layui-btn-sm">
+                        <a href="../../../../public/index.php" class="layui-btn layui-btn-sm">
                             <i class="layui-icon">&#xe602;</i>
                             下一页
                         </a>
