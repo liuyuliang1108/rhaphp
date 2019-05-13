@@ -1,4 +1,4 @@
-<?php /*a:2:{s:61:"C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html";i:1557624598;s:73:"C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/..\admin\common\base.html";i:1557624598;}*/ ?>
+<?php /*a:2:{s:61:"C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/mp\index.html";i:1557624598;s:73:"C:\phpStudy\PHPTutorial\WWW\rhaphp\themes/pc/mp/..\admin\common\base.html";i:1557761011;}*/ ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,6 +73,7 @@
 <div class="container_body wrap">
     <div class="sidebar">
         <div class="menu">
+            <dd></dd><a class="" href="<?php echo url('extension/index/index'); ?>" >应用拓展</a></dd>
             <?php if(is_array($menu) || $menu instanceof \think\Collection || $menu instanceof \think\Paginator): $i = 0; $__LIST__ = $menu;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$t): $mod = ($i % 2 );++$i;?>
             <dl>
                 <dt><i class="type-ico ico-trade rha-icon <?php if($t['shows'] == '1'): ?><?php endif; ?>"><?php echo $t['icon']; ?></i><?php echo htmlentities($t['name']); ?></dt>

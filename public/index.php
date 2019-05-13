@@ -19,6 +19,7 @@ define('ADDON_PATH', __DIR__ . '/../addons/');
 define('MINIAPP_PATH', __DIR__ . '/../miniapp/');
 define('ADDON_ROUTE','/app/');
 define('EXTEND_PATH',ROOT_PATH . 'extend/');
+define('EXTENSION_PATH',ROOT_PATH . 'extension/');
 
 define('SUBJECT_NAME','rhaphp');
 // 加载基础文件

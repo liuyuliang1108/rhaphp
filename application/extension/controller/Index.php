@@ -1,5 +1,5 @@
 <?php
-namespace app\install\controller;
+namespace app\extension\controller;
 
 use think\facade\Env;
 use think\facade\Request;
@@ -17,7 +17,7 @@ class Index extends \think\Controller {
 			'sql'      => 'info',
 			'complete' => 'info',
 		);
-		if (request()->action() != 'complete' && is_file(APP_PATH . '/install.lock')) {
+		if (request()->action() != 'complete' && is_file(EXTENSION_PATH . '/install.lock')) {
 			return $this->redirect('admin/index/index');
 		}
 		View::config('view_path',APP_PATH.Request::module().'/view/');
@@ -83,7 +83,7 @@ class Index extends \think\Controller {
 				if (!$db->execute($sql)) {
 					return $this->error('创建数据库失败');
 				} else {
-					return $this->redirect('install/index/sql');
+					return $this->redirect('extension/index/sql');
 				}
 			}
 		} else {
@@ -124,7 +124,7 @@ class Index extends \think\Controller {
 		if (session('error')) {
 			show_msg('失败');
 		} else {
-			echo '<script type="text/javascript">location.href = "'.url('install/index/complete').'";</script>';
+			echo '<script type="text/javascript">location.href = "'.url('extension/index/complete').'";</script>';
 		}
 	}
 
